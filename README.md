@@ -5,7 +5,6 @@ To get started, continue with the basic description below, then find more detail
 You are welcome to discuss any question regarding the project at the Google group OsmAnd. Please do not use comments on wiki pages because it is rather difficult to find them.
 
 
-
 |Android markets|
 |---------------|
 |<a href="https://play.google.com/store/apps/dev?id=8483587772816822023" rel="Get it on Google Play">![Google Play](https://github.com/osmandapp/OsmAnd-misc/blob/master/logo/stores/googleplay.png)</a>|
